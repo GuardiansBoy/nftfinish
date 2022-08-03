@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #973",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/973.png",
+  "dna": "ca8af1f1bc80d63bf7b399f3cf63fab7c379976d",
+  "edition": 973,
+  "date": 1659546108566,
+  "attributes": [
+    {
+      "Background": "trees wall bg",
+      "Shoes": "red shoes",
+      "Bottom": "pink pants",
+      "Top": "black waiter shirt",
+      "Head": "flat blonde",
+      "Eyes": "hearty eyes"
+    }
+  ],
+  "compiler": "Art Engine"
+}

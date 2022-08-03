@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #803",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/803.png",
+  "dna": "cc892a347a81130dfca6c4413eb4b61b7f317f6d",
+  "edition": 803,
+  "date": 1659546089094,
+  "attributes": [
+    {
+      "Background": "chair bg",
+      "Shoes": "ninja shoes",
+      "Bottom": "orange ninja pants",
+      "Top": "green no sleeve",
+      "Head": "short blue",
+      "Eyes": "sleepy purple"
+    }
+  ],
+  "compiler": "Art Engine"
+}

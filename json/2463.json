@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #2463",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/2463.png",
+  "dna": "469e3b06a9371ec536caf060a5ed1aa6b242cb61",
+  "edition": 2463,
+  "date": 1659546236506,
+  "attributes": [
+    {
+      "Background": "dark window bg",
+      "Shoes": "green shoes",
+      "Bottom": "camo pants",
+      "Top": "yellow ninja",
+      "Head": "flat blonde",
+      "Eyes": "red eyes"
+    }
+  ],
+  "compiler": "Art Engine"
+}

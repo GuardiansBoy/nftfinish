@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #2002",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/2002.png",
+  "dna": "c86c4c411936ba76c02b66aa6f56637111573f98",
+  "edition": 2002,
+  "date": 1659546199493,
+  "attributes": [
+    {
+      "Background": "dark window bg",
+      "Shoes": "black shoes",
+      "Bottom": "black jeans",
+      "Top": "black waiter shirt",
+      "Head": "flat blonde",
+      "Eyes": "green goggles"
+    }
+  ],
+  "compiler": "Art Engine"
+}

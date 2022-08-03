@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #2022",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/2022.png",
+  "dna": "3172b65317636917e3748c0c3c091a56f31d2ac1",
+  "edition": 2022,
+  "date": 1659546200994,
+  "attributes": [
+    {
+      "Background": "light window bg",
+      "Shoes": "ninja shoes",
+      "Bottom": "orange ninja pants",
+      "Top": "yellow ninja",
+      "Head": "short pink",
+      "Eyes": "hearty eyes"
+    }
+  ],
+  "compiler": "Art Engine"
+}

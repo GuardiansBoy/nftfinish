@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #1407",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/1407.png",
+  "dna": "2d03ee96b4029b6c06f21ac4f66b9c9d09926544",
+  "edition": 1407,
+  "date": 1659546146772,
+  "attributes": [
+    {
+      "Background": "trees bg",
+      "Shoes": "ninja shoes",
+      "Bottom": "orange ninja pants",
+      "Top": "red bison",
+      "Head": "purple ant",
+      "Eyes": "red visor"
+    }
+  ],
+  "compiler": "Art Engine"
+}

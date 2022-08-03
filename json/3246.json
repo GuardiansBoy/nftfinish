@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #3246",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/3246.png",
+  "dna": "21ab6da33ee8005cabdefd5539a67e359d8d627e",
+  "edition": 3246,
+  "date": 1659546300240,
+  "attributes": [
+    {
+      "Background": "dark window bg",
+      "Shoes": "ninja shoes",
+      "Bottom": "orange ninja pants",
+      "Top": "black waiter shirt",
+      "Head": "smile cup",
+      "Eyes": "bright purple"
+    }
+  ],
+  "compiler": "Art Engine"
+}

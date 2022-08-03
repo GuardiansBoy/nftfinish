@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #1986",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/1986.png",
+  "dna": "5ef41cb534e007add6d67fd046a44f66759595f8",
+  "edition": 1986,
+  "date": 1659546198342,
+  "attributes": [
+    {
+      "Background": "dark window bg",
+      "Shoes": "green shoes",
+      "Bottom": "camo pants",
+      "Top": "black sleeveless",
+      "Head": "rat",
+      "Eyes": "hearty eyes"
+    }
+  ],
+  "compiler": "Art Engine"
+}

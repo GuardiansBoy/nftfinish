@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #1983",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/1983.png",
+  "dna": "11c5954c7aadaa0e4f675c857cd637463cd473bd",
+  "edition": 1983,
+  "date": 1659546198126,
+  "attributes": [
+    {
+      "Background": "light window bg",
+      "Shoes": "yellow shoes",
+      "Bottom": "white pants",
+      "Top": "black waiter shirt",
+      "Head": "flat blonde",
+      "Eyes": "hearty eyes"
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Coffee Game #2023",
+  "description": "Coffee Game NFTs",
+  "image": "ipfs://NewUriToReplace/2023.png",
+  "dna": "7a0e552adebbda43514bb435be65e79c017a9e03",
+  "edition": 2023,
+  "date": 1659546201062,
+  "attributes": [
+    {
+      "Background": "dark window bg",
+      "Shoes": "blue shoes",
+      "Bottom": "orange ninja pants",
+      "Top": "red open shirt",
+      "Head": "green doll",
+      "Eyes": "hearty eyes"
+    }
+  ],
+  "compiler": "Art Engine"
+}
