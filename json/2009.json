@@ -1,17 +1,18 @@
 {
+  "id": "Barista2009",
   "name": "Coffee Game #2009",
   "description": "Coffee Game NFTs",
-  "image": "ipfs://NewUriToReplace/2009.png",
-  "dna": "228727b2d712c0a73df62c57f304b2961088a8b8",
+  "image": "image/Barista2009.png",
+  "dna": "cf325b56e3fabce75943fa3fab7990a345fca4ec",
   "edition": 2009,
-  "date": 1659546199956,
+  "date": 1659553333807,
   "attributes": [
     {
-      "Background": "brick bg",
-      "Shoes": "red shoes",
+      "Background": "light window bg",
+      "Shoes": "ninja shoes",
       "Bottom": "orange ninja pants",
       "Top": "black waiter shirt",
-      "Head": "short pink",
+      "Head": "paper towel",
       "Eyes": "red visor"
     }
   ],

@@ -1,18 +1,19 @@
 {
+  "id": "Barista2056",
   "name": "Coffee Game #2056",
   "description": "Coffee Game NFTs",
-  "image": "ipfs://NewUriToReplace/2056.png",
-  "dna": "242e11421b08154a439f0df3152f77578cdca0af",
+  "image": "image/Barista2056.png",
+  "dna": "b1058201799ab477c04d42ae6da11232770d1d97",
   "edition": 2056,
-  "date": 1659546203554,
+  "date": 1659553336971,
   "attributes": [
     {
       "Background": "dark window bg",
-      "Shoes": "black shoes",
+      "Shoes": "light red shoes",
       "Bottom": "camo pants",
-      "Top": "green no sleeve",
-      "Head": "paper towel",
-      "Eyes": "hearty eyes"
+      "Top": "black waiter shirt",
+      "Head": "short pink",
+      "Eyes": "red eyes"
     }
   ],
   "compiler": "Art Engine"
